@@ -18,8 +18,6 @@ lab1_idor/
 ```
 
 ## Overview
-In this lab you will:
-
 1. Build a Flask REST API supporting CRUD operations on `Product` resources belonging to authenticated users.
 2. Use simple auto-incrementing integer IDs for products.
 3. Demonstrate how an attacker can exploit IDOR to access another user’s products by guessing or enumerating IDs.
